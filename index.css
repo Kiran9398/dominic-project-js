@@ -1,0 +1,146 @@
+body {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.svg-icon {
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+  margin-top: 5px;
+  justify-content: end;
+  margin-right: 10px;
+}
+.downlode-btn-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  cursor: pointer;
+}
+.download-btn {
+  width: 110px;
+  height: 30px;
+  background-color: grey;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.containers {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
+}
+.btn-container {
+  margin: 10px;
+  width: 120px;
+  border-radius: 5px;
+  border: none !important;
+  cursor: pointer;
+}
+.tick-mark {
+  width: 20px;
+  height: 20px;
+  float: left;
+  border-radius: 10px;
+}
+.font-size-of-style-name {
+  font-size: 20px;
+  font-weight: 500;
+}
+.font-size-of-roboto-name {
+  font-size: 10px;
+  font-weight: 500;
+}
+.default-para {
+  text-align: center;
+}
+li,
+button,
+a {
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration: none;
+}
+.heading-el {
+  background-image: url("light.webp");
+  height: 55vh;
+  width: 50vw;
+  margin: 0px auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 7px;
+  color: white !important;
+}
+.top-anchor {
+  color: gray;
+}
+.anchor {
+  color: white;
+}
+.header-part-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 0.2px black;
+}
+.header-part {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  cursor: pointer;
+}
+.nav__links {
+  list-style: none;
+}
+.nav__links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.profile-button {
+  background-color: #0080ff;
+  border: none;
+  width: 70px;
+  height: 27px;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+}
+.matter {
+  text-align: center;
+}
+.footer-path {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px;
+}
+.list-remove-style {
+  list-style: none;
+}
+.list-items {
+  margin: 10px;
+}
+input {
+  height: 30px;
+  width: 250px;
+  border: none;
+  border-radius: 5px;
+  color: #0080ff !important;
+}
+.get-btn {
+  background-color: #0080ff;
+  height: 31px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+}
+a {
+  color: rgba(48, 12, 207, 0.911);
+}
